@@ -1,0 +1,3 @@
+[submodule "metadata"]
+	path = metadata
+	url = https://github.com/TenSeventy7/OTA_Service.git
