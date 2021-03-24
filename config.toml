@@ -1,4 +1,4 @@
-baseURL = "https://tr.tensevntysevn.cf/"
+baseURL = "https://cl.tensevntysevn.cf/"
 title = "Geographic OTA Services"
 contentDir = "metadata/content"
 
@@ -7,4 +7,4 @@ contentDir = "metadata/content"
     page = ["rss"]
 
 [params]
-	mirrorCode = "nav"
+	mirrorCode = "ufpr"
