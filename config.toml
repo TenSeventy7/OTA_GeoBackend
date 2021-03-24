@@ -1,2 +1,10 @@
 baseURL = "https://tr.tensevntysevn.cf/"
 title = "Geographic OTA Services"
+contentDir = "metadata/content"
+
+[outputs]
+    section = ["rss"]
+    page = ["rss"]
+
+[params]
+	mirrorCode = "nav"
