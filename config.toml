@@ -1,4 +1,4 @@
-baseURL = "https://ru.tensevntysevn.cf/"
+baseURL = "https://in.tensevntysevn.cf/"
 title = "Geographic OTA Services"
 contentDir = "metadata/content"
 
@@ -7,4 +7,4 @@ contentDir = "metadata/content"
     page = ["rss"]
 
 [params]
-	mirrorCode = "deac-ams"
+	mirrorCode = "liquidtelecom"
